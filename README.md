@@ -42,8 +42,8 @@ fue basado en una plantilla de photoshop <br>
 https://keiao.github.io/MasmaHub/
 
 - Rick And Morty <br>
-el pokedex fue basado en un figma de suazo
-https://keiao.github.io/RickAndMorty/
+el pokedex fue basado en un figma de suazo <br>
+https://rick-and-morty-six-nu.vercel.app/principal
 
 - Pokedex <br>
 el pokedex fue basado en un figma y aun esta en proceso <br>
