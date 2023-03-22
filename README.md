@@ -3,9 +3,7 @@
 ![portada](https://user-images.githubusercontent.com/38365548/226806464-4e3a851e-967b-42b7-9ec4-00b2fb472ba1.jpg)
 
 
-👋 Hola! Soy un desarrollador junior con conocimientos en el desarrollo frontend y en tecnologías como HTML, CSS, JavaScript, Vue.js, Sass y Git. 💻 Me apasiona aprender y mejorar constantemente mis habilidades en el desarrollo de software y estoy comprometido con la aplicación de buenas prácticas de desarrollo y control de versiones mediante Git. 🚀 Actualmente estoy buscando oportunidades para colaborar en proyectos emocionantes y desafiantes en el mundo del desarrollo web. ¿Quieres trabajar juntos? ¡Hablemos! 🤝
-
-Here are some ideas to get you started:
+👋 Hola! Soy un desarrollador junior con conocimientos en el desarrollo frontend y en tecnologías como HTML, CSS, JavaScript, Vue.js, Sass y Git. 💻 Me apasiona aprender y mejorar constantemente mis habilidades en el desarrollo de software y estoy comprometido con la aplicación de buenas prácticas de desarrollo y control de versiones mediante Git. 🚀 Actualmente estoy buscando oportunidades para colaborar en proyectos emocionantes y desafiantes en el mundo del desarrollo web. ¿Quieres que trabajemos juntos? ¡Hablemos! 🤝
 
 🌱 Actualmente estoy aprendiendo...
 Estoy en proceso de aprender Vue.js y, al mismo tiempo, estoy dando mis primeros pasos en el mundo de React para expandir mi habilidades en el desarrollo frontend.
@@ -13,8 +11,7 @@ Estoy en proceso de aprender Vue.js y, al mismo tiempo, estoy dando mis primeros
 📫 Cómo contactarme:
 Puedes contactarme por correo electrónico a mi dirección personal: soloncar1@gmail.com
 
-⚡ Dato curioso:
-Me gusta apasionan las motos mas que un gusto es un hobby para mi.
+⚡ Dato curioso: Soy un apasionado de las motos más que un gusto es un hobby para mí..
 
 Tecnologias:
 - Git: control de versiones.
@@ -35,16 +32,16 @@ Tecnologias:
 Mis Proyectos:
 
 - Lobe <br>
-https://keiao.github.io/Lobe/
+Demo:https://keiao.github.io/Lobe/
 
 - MasmaHub <br>
 fue basado en una plantilla de photoshop <br>
-https://keiao.github.io/MasmaHub/
+Demo:https://keiao.github.io/MasmaHub/
 
 - Rick And Morty <br>
 el pokedex fue basado en un figma de suazo <br>
-https://rick-and-morty-six-nu.vercel.app/principal
+Demohttps://rick-and-morty-six-nu.vercel.app/principal
 
 - Pokedex <br>
 el pokedex fue basado en un figma y aun esta en proceso <br>
-https://keiao.github.io/pokedex/
+Demo:https://keiao.github.io/pokedex/
