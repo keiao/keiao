@@ -1,4 +1,6 @@
-### Hi there 👋
+
+
+![portada](https://user-images.githubusercontent.com/38365548/226806464-4e3a851e-967b-42b7-9ec4-00b2fb472ba1.jpg)
 
 
 👋 Hola! Soy un desarrollador junior con conocimientos en el desarrollo frontend y en tecnologías como HTML, CSS, JavaScript, Vue.js, Sass y Git. 💻 Me apasiona aprender y mejorar constantemente mis habilidades en el desarrollo de software y estoy comprometido con la aplicación de buenas prácticas de desarrollo y control de versiones mediante Git. 🚀 Actualmente estoy buscando oportunidades para colaborar en proyectos emocionantes y desafiantes en el mundo del desarrollo web. ¿Quieres trabajar juntos? ¡Hablemos! 🤝
