@@ -17,26 +17,33 @@ Puedes contactarme por correo electrónico a mi dirección personal: soloncar1@g
 Me gusta apasionan las motos mas que un gusto es un hobby para mi.
 
 Tecnologias:
-Git: control de versiones.
-Element Plus: framework de UI.
-Axios: biblioteca para solicitudes HTTP.
-Vuex: biblioteca de administración de estado.
-Vue Router: biblioteca de enrutamiento.
-ESLint: herramienta de análisis de código.
-Prettier: formateador de código.
+- Git: control de versiones.
+- Element Plus: framework de UI.
+- Axios: biblioteca para solicitudes HTTP.
+- Vuex: biblioteca de administración de estado.
+- Vue Router: biblioteca de enrutamiento.
+- ESLint: herramienta de análisis de código.
+- Prettier: formateador de código.
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+
 
 Mis Proyectos:
 
-.Lobe
+- Lobe <br>
 https://keiao.github.io/Lobe/
 
-.MasmaHub
-fue basado en una plantilla de photoshop
+- MasmaHub <br>
+fue basado en una plantilla de photoshop <br>
 https://keiao.github.io/MasmaHub/
 
-.Rick And Morty
-el rick y mor
-.https://keiao.github.io/RickAndMorty/
+- Rick And Morty <br>
+el pokedex fue basado en un figma de suazo
+https://keiao.github.io/RickAndMorty/
 
-.Pokedex
+- Pokedex <br>
 el pokedex fue basado en un figma 
