@@ -32,20 +32,24 @@ Tecnologias:
 Mis Proyectos:
 
 - Lobe <br>
+*fue basado en una plantilla de photoshop <br>
 Repositorio: https://github.com/keiao/Lobe <br>
 Demo: https://keiao.github.io/Lobe/
 
-- MasmaHub <br>
-fue basado en una plantilla de photoshop <br>
-Repositorio: https://github.com/keiao/MasmaHub <br>
+- MasmasHub <br>
+*El masmashub fue basado en un figma <br>
+Figma: https://www.figma.com/file/fECdL3mJalPO1kOrBJLOcx/Masmas-Hub-Adventure-Landing-page-V.1-UI-Kit-(Community)?node-id=1-2&t=hic9jNN725LMv0gB-0 <br>
+Repositorio: https://github.com/keiao/MasmaHub  <br>
 Demo: https://keiao.github.io/MasmaHub/
 
 - Rick And Morty <br>
-el pokedex fue basado en un figma de suazo <br>
+*El rick and morty fue basado en un figma de suazo <br>
 Repositorio: https://github.com/keiao/RickAndMorty <br>
-Demohttps: //rick-and-morty-six-nu.vercel.app/principal
+Figma:  <br>
+Demo: https://rick-and-morty-six-nu.vercel.app/principal
 
-- Pokedex <br>
-el pokedex fue basado en un figma y aun esta en proceso <br>
+- Pokedex (En Desarrollo) <br>
+El pokedex fue basado en un figma <br>
+Figma: https://www.figma.com/file/DZU8WN4ykqCzm9Vc0H1WMI/Pok%C3%A9dex-%2F-Pok%C3%A9mon-App-(Community)?node-id=1268-35268&t=hic9jNN725LMv0gB-0 <br>
 Repositorio: https://github.com/keiao/pokedex <br>
-Demo:https: //keiao.github.io/pokedex/
+Demo: https://keiao.github.io/pokedex/
