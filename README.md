@@ -46,10 +46,10 @@ Demo: https://keiao.github.io/MasmaHub/
 *El rick and morty fue basado en un figma de suazo <br>
 Repositorio: https://github.com/keiao/RickAndMorty <br>
 Figma: https://www.figma.com/file/6GN6h4XsZuC6z1zDv5Yhxa/Inicio?node-id=704-74 <br>
-Demo: https://rick-and-morty-six-nu.vercel.app/principal
+Demo: https://rick-and-morty-six-nu.vercel.app/
 
 - Pokedex (En Desarrollo) <br>
 El pokedex fue basado en un figma <br>
 Figma: https://www.figma.com/file/DZU8WN4ykqCzm9Vc0H1WMI/Pok%C3%A9dex-%2F-Pok%C3%A9mon-App-(Community)?node-id=1212-36465&t=0Uh33dzzR78oqa7G-4 <br>
 Repositorio: https://github.com/keiao/pokedex <br>
-Demo: https://keiao.github.io/pokedex/
+Demo: https://pokedex-git-master-keiao.vercel.app/
