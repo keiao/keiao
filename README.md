@@ -32,16 +32,20 @@ Tecnologias:
 Mis Proyectos:
 
 - Lobe <br>
-Demo:https://keiao.github.io/Lobe/
+Repositorio: https://github.com/keiao/Lobe <br>
+Demo: https://keiao.github.io/Lobe/
 
 - MasmaHub <br>
 fue basado en una plantilla de photoshop <br>
-Demo:https://keiao.github.io/MasmaHub/
+Repositorio: https://github.com/keiao/MasmaHub <br>
+Demo: https://keiao.github.io/MasmaHub/
 
 - Rick And Morty <br>
 el pokedex fue basado en un figma de suazo <br>
-Demohttps://rick-and-morty-six-nu.vercel.app/principal
+Repositorio: https://github.com/keiao/RickAndMorty <br>
+Demohttps: //rick-and-morty-six-nu.vercel.app/principal
 
 - Pokedex <br>
 el pokedex fue basado en un figma y aun esta en proceso <br>
-Demo:https://keiao.github.io/pokedex/
+Repositorio: https://github.com/keiao/pokedex <br>
+Demo:https: //keiao.github.io/pokedex/
