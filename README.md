@@ -46,4 +46,5 @@ el pokedex fue basado en un figma de suazo
 https://keiao.github.io/RickAndMorty/
 
 - Pokedex <br>
-el pokedex fue basado en un figma 
+el pokedex fue basado en un figma y aun esta en proceso <br>
+https://keiao.github.io/pokedex/
